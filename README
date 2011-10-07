@@ -1,0 +1,20 @@
+Ponyguruma
+  Oniguruma binding for Python
+
+Ponyguruma was written for Python a few years back but it was
+never uploaded to the Cheesehop.  I now (2011) moved the project
+to github so that people can pick up on it.
+
+What is Oniguruma?
+  It's a regular expression engine that does a lot more than
+  regular expressions and is known for being the regexp engine
+  of choice for Ruby, TextMate and Sublime Text.
+
+Why would I want to use it?
+  For testing Oniguruma style regular expressions :-)
+
+Is it fast?
+  Not particularly, but that can be improved.
+
+Who wrote it?
+  Armin Ronacher and Georg Brand.
